@@ -9,6 +9,10 @@ Olá! Eu sou Milton Salustiano
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonneto10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+## 
+
+## Tenho conhecimento em:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Milton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Milton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +22,14 @@ Olá! Eu sou Milton Salustiano
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Milton-C++" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
+
+##
+
+## Atualmente estou estudando:
+<div style="display: inline_block"><br>
   <img align="center" alt="Milton-nodejs" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-          
+  <img align="center" alt="Milton-Java" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+</div>
